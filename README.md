@@ -3,4 +3,4 @@ hello-world
 ===
 I love Github
 
-My first repository on GitHub
+I love to Geek Out and Party
